@@ -1,2 +1,2 @@
-# C25-Matrix-Rain
-C25 PROJECT MATRIX
+# p5.play-boilerplate
+Boiler plate for p5.play
